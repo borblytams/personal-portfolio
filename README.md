@@ -1,2 +1,2 @@
-# personal-portfolio
-My personal portfolio with some of my projects
+My personal portfolio
+Message me on borblytams@gmail.com for more info.
