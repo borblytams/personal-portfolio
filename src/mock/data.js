@@ -206,6 +206,15 @@ export const projectsData = [
 		url: "https://boring-tereshkova-da8cb3.netlify.app/",
 		repo: "https://github.com/borblytams/tabs", // if no repo, the button will not show up
 	},
+	{
+		id: nanoid(),
+		img: "grocery-bud.png",
+		title: "Simple grocery bud",
+		info: "Kinda like a todo list",
+		info2: "",
+		url: "https://sad-hypatia-e387df.netlify.app/",
+		repo: "https://github.com/borblytams/grocery-bud", // if no repo, the button will not show up
+	},
 ];
 
 // CONTACT DATA
