@@ -49,7 +49,7 @@ const About = () => {
 								</p>
 								<p className="about-wrapper__info-text">
 									{paragraphTwo ||
-										"My goal is is to combine the IOT and informatics with precisional farming solutions, like drones big data and robotics and aquaponics."}
+										"My goal is to combine the IOT and informatics with precisional farming solutions, like drones big data and robotics and aquaponics."}
 								</p>
 								<p className="about-wrapper__info-text">
 									{paragraphThree ||
